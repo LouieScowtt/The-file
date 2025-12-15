@@ -1,6 +1,11 @@
 body {
   font-family: 'Bradley Hand', cursive;
-  padding: 25px;
+  padding: 55px;
   background-color: grey;
-  color: white;
+}
+.Paper {
+  background-color: white;
+  color: black;
+  width: 45%;
+  margin: auto
 }
