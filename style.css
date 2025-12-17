@@ -11,6 +11,6 @@ body {
   padding: 25px;
 }
 
-h1 {
+h1.title {
   text-align: right;
 }
