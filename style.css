@@ -6,6 +6,7 @@ body {
 .Paper {
   width: 85%;
   background-color: white;
+  background: url('images/Clipboard icon.png') middle center;
   color: black;
   margin: auto;
   padding: 25px;
